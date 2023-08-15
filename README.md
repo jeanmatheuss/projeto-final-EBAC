@@ -13,10 +13,5 @@ Este projeto tem como objetivo capturar mensagens de um bot do Telegram e armaze
 4. Conectaremos o AWS API Gateway ao AWS Lambda, que armazenará as mensagens no seu formato JSON original em um bucket do AWS S3.
 
 
-### Requisitos
-* Conta na Amazon Web Services (AWS)
-* Conhecimento básico sobre a criação e configuração de serviços AWS
-
-
 ### Considerações Finais
 Este projeto demonstra a criação de um sistema eficiente para captura e armazenamento de mensagens do Telegram utilizando serviços da AWS. A combinação do AWS API Gateway, AWS Lambda e AWS S3 proporciona um fluxo de trabalho automatizado e escalável.
